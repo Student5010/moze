@@ -1,0 +1,88 @@
+//report on types of Blockchains 
+
+1. Public Blockchain
+These blockchains are completely open to following the idea of decentralization. They
+don’t have any restrictions, anyone having a computer and internet can participate in
+the network.
+ As the name is public this blockchain is open to the public, which means it is not
+owned by anyone.
+ Anyone having internet and a computer with good hardware can participate in this
+public blockchain.
+ All the computer in the network hold the copy of other nodes or block present in the
+network
+ In this public blockchain, we can also perform verification of transactions or records
+
+
+2. Private Blockchain
+These blockchains are not as decentralized as the public blockchain only selected
+nodes can participate in the process, making it more secure than the others.
+ These are not as open as a public blockchain.
+ They are open to some authorized users only.
+ These blockchains are operated in a closed network.
+
+3. Hybrid Blockchain
+It is the mixed content of the private and public blockchain, where some part is
+controlled by some organization and other makes are made visible as a public
+blockchain.
+ It is a combination of both public and private blockchain.
+ Permission-based and permissionless systems are used.
+ User access information via smart contracts
+ Even a primary entity owns a hybrid blockchain it cannot alter the transaction
+
+
+4. Consortium Blockchain
+It is a creative approach that solves the needs of the organization. This blockchain
+validates the transaction and also initiates or receives transactions.
+ Also known as Federated Blockchain.
+ This is an innovative method to solve the organization’s needs.
+ Some part is public and some part is private.
+ In this type, more than one organization manages the blockchain.
+
+
+
+Blockchain Technology Use Cases
+
+
+Here are the hottest Blockchain technology use cases categorized under specific
+industries/applications:
+1. Internet of Things (IoT)
+The Internet of Things (IoT) industry is growing rapidly with billions of connected
+devices. The latest forecasts suggest that by 2030, there’ll be 50 billion devices in use
+globally. As this number continues to grow, it will increase vulnerabilities as hackers can
+easily breach your data through a single connected device. By integrating Blockchain
+technology in IoT devices, the possibility of data breaches can be reduced to a great
+extent.
+Use cases:
+HYPR (IoT/Cybersecurity)
+HYPR takes cybersecurity to the next level by combining smartphone technology with
+the highly secure FIDO token. This is the secret behind its True Passwordless
+Authentication feature. Through its decentralized credential solutions and biometric
+authentication, HYPR makes IoT devices tamper-proof.
+Xage (IoT/Cybersecurity)
+Xage boasts of being the world’s first Blockchain-based cybersecurity platform
+exclusively for catering to IoT firms functioning in energy, transportation, manufacturing,
+etc. Xage’s technology can handle and manage billions of devices simultaneously. It
+extends zero trust identity, data security, and local/remote access for physical and
+digital operations in the cloud, OT, and IT.
+2. Money Transfer
+Money transfer and payment processing are the most excellent Blockchain technology
+use cases. Blockchain tech enables lightning-fast transactions in real-time. This has
+already transformed the BFSI sector for good as it saves both time and money (mostly
+eliminates transaction fees charged by banks/financial institutions).
+Use cases:
+Circle (FinTech)
+Circle uses USD Coin (USDC), the fastest-growing regulated Stablecoin, to help
+individuals run and establish their internet business. The platform offers around seven
+cryptocurrencies (Bitcoin, Monero, Zcash, etc.). Every month, Circle handles over $2
+billion in cryptocurrency investments and exchanges.
+Chainalysis (FinTech/Cybersecurity)
+Chainalysis offers Blockchain data and analysis reports to financial institutions,
+exchanges, and government agencies in 40 countries across the globe. Essentially, it
+focuses on helping institutions monitor cryptocurrency exchanges. Chainalysis’s
+compliance and investigation tools enable you to monitor and identify fraudulent
+transactions, money laundering, and compliance violations, thereby building a reliable
+Blockchain-based econom
+
+
+ In this few people are allowed to participate in a network within a
+company/organization.
